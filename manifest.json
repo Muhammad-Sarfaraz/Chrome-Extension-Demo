@@ -1,0 +1,10 @@
+{
+    "name": "Bangladesh Covid Report",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Get the latest covid report of Bangladesh.",
+    "homepage_url": "https://xyz.com",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
